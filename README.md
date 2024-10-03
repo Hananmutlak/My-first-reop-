@@ -22,6 +22,7 @@
 20. ---
 21. ##Fråga 3: Beskriv hur du går tillväga för att ignorera att vissa filer eller kataloger att indexeras med Git?
 22. Beskriving här.
+23. ---
     ###Att redovisa: för att kunna klona min responsitory till din dator .använd den här länken:
     '''bash
     https://github.com/Hananmutlak/My-first-reop-.git

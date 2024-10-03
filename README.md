@@ -1,10 +1,10 @@
 # My-first-reop-
 ##Fråga 1:Förklara följande begrepp:
- **Local repository**
+1. **Local repository**
 
- **Remote repository**
+2. **Remote repository**
 
- **Branch**
+3. **Branch**
  ---
  ##Fråga 2: Beskriv följande kommandon (vad de gör, hur de fungerar etcetera):
 **git init**
